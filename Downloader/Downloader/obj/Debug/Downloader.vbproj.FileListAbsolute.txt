@@ -1,0 +1,10 @@
+C:\Users\RokIvaMicheSilviGiu\Desktop\Downloader\Downloader\bin\Debug\Downloader.exe.config
+C:\Users\RokIvaMicheSilviGiu\Desktop\Downloader\Downloader\bin\Debug\Downloader.exe
+C:\Users\RokIvaMicheSilviGiu\Desktop\Downloader\Downloader\bin\Debug\Downloader.pdb
+C:\Users\RokIvaMicheSilviGiu\Desktop\Downloader\Downloader\bin\Debug\Downloader.xml
+C:\Users\RokIvaMicheSilviGiu\Desktop\Downloader\Downloader\obj\Debug\Downloader.Form1.resources
+C:\Users\RokIvaMicheSilviGiu\Desktop\Downloader\Downloader\obj\Debug\Downloader.Resources.resources
+C:\Users\RokIvaMicheSilviGiu\Desktop\Downloader\Downloader\obj\Debug\Downloader.vbproj.GenerateResource.Cache
+C:\Users\RokIvaMicheSilviGiu\Desktop\Downloader\Downloader\obj\Debug\Downloader.exe
+C:\Users\RokIvaMicheSilviGiu\Desktop\Downloader\Downloader\obj\Debug\Downloader.xml
+C:\Users\RokIvaMicheSilviGiu\Desktop\Downloader\Downloader\obj\Debug\Downloader.pdb
